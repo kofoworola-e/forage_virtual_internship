@@ -1,3 +1,5 @@
+![SmartBank Churn Image](header_image.png)
+
 # 🏦 Lloyds Banking Group – Customer Retention Predictive Analytics Project
 
 Welcome to my submission for the **Lloyds Banking Group: Data Science & Analytics Virtual Internship**, hosted on [Forage](https://www.theforage.com/simulations/lloyds-banking-group/data-science-fpey). This project simulates a real-world assignment within Lloyds' Data Science team, focused on solving a critical customer retention problem using predictive analytics.
