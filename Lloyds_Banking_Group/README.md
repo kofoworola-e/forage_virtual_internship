@@ -52,7 +52,7 @@ SmartBank — a subsidiary of Lloyds — is experiencing rising churn, especiall
 - Evaluate performance using appropriate metrics
 - Propose methods for measuring effectiveness in real-world deployment
 
-**🔜 Deliverable:**  
+**✅ Deliverable:**  
 - Trained machine learning model
 - Evaluation summary and performance metrics
 - Insights on model reliability and business application
