@@ -12,7 +12,7 @@ This repo contains structured folders for each internship I’ve completed or am
 
 ### 🏢 Completed Internships
 Here's a running list of the virtual experience programs I've worked on:
-- **Lloyds Banking Group – Data Science & Analytics**  
+- [Lloyds Banking Group – Data Science & Analytics](https://github.com/kofoworola-e/forage_virtual_internship/tree/main/Lloyds_Banking_Group)  
 - _(More internships will be added as I complete them)_
 
 > 🛠️ Each project showcases different aspects of data analytics and science, business thinking, technical skills, and communication — all within a simulated but realistic company setting.
@@ -27,8 +27,8 @@ As an aspiring data scientist passionate about making business decisions smarter
 
 ### 📫 Let's Connect!
 Feel free to reach out or connect with me:
+- 💼 [Portfolio](https://www.datascienceportfol.io/kofoworolae)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kofoworola-egbinola-m)
-
 ---
 
 Crafted with ❤️by **Kofoworola Egbinola**
