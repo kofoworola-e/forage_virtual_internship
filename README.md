@@ -1,6 +1,6 @@
 ## 🎯 Forage Virtual Internships – Kofo's Task Showcase
 
-Welcome to my curated repository of tasks and projects completed as part of various **virtual internship programs on [Forage](https://www.theforage.com/)**. Each task represents a hands-on simulation of real-world problems tackled by leading companies around the world — from banking to tech and consulting.
+Welcome to my curated repository of tasks and projects completed as part of various **virtual internship simulation programs on [Forage](https://www.theforage.com/)**. Each task represents a hands-on simulation of real-world problems tackled by leading companies around the world — from banking to tech and consulting.
 
 ### 🚀 What You’ll Find Here
 
