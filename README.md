@@ -13,6 +13,7 @@ This repo contains structured folders for each internship I’ve completed or am
 ### 🏢 Completed Internships
 Here's a running list of the virtual experience programs I've worked on:
 - [Lloyds Banking Group – Data Science & Analytics](https://github.com/kofoworola-e/forage_virtual_internship/tree/main/Lloyds_Banking_Group)  
+- [British Airways – Data Science](https://github.com/kofoworola-e/forage_virtual_internship/tree/main/British_Airways_Forage)
 - _(More internships will be added as I complete them)_
 
 > 🛠️ Each project showcases different aspects of data analytics and science, business thinking, technical skills, and communication — all within a simulated but realistic company setting.
